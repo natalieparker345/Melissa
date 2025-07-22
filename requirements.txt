@@ -1,0 +1,8 @@
+discord.py
+google-generativeai
+Pillow
+PyNaCl
+gTTS
+SpeechRecognition
+pydub
+sqlite3‎
